@@ -1,10 +1,10 @@
 local base = import "../base.jsonnet";
 
-local category_list_path = "https://raw.githubusercontent.com/frederick0329/Wikipedia-Title-Dataset/master/category_list_ja.txt";
+local category_list_path = "https://raw.githubusercontent.com/frederick0329/Wikipedia-Title-Dataset/master/category_list_zh.txt";
 
-local tng_data_path = "https://github.com/frederick0329/Learning-Character-Level/raw/master/data/ja_train.txt";
-local val_data_path = "https://github.com/frederick0329/Learning-Character-Level/raw/master/data/ja_val.txt";
-local tst_data_path = "https://github.com/frederick0329/Learning-Character-Level/raw/master/data/ja_test.txt";
+local tng_data_path = "https://github.com/frederick0329/Learning-Character-Level/raw/master/data/zh_simplified_train.txt";
+local val_data_path = "https://github.com/frederick0329/Learning-Character-Level/raw/master/data/zh_simplified_val.txt";
+local tst_data_path = "https://github.com/frederick0329/Learning-Character-Level/raw/master/data/zh_simplified_test.txt";
 
 local char_embed_dim = 128;
 # ref. https://github.com/frederick0329/Learning-Character-Level/blob/57e90e1fa7f026025f4af8b120d0b714326ce5b7/code/doall.lua#L25
