@@ -16,6 +16,9 @@ Abstract:
 - Preprint: https://arxiv.org/abs/1810.03595
 - IEEE Xplore: https://ieeexplore.ieee.org/document/8707407
 
+We recommend that you also check out the following studies related to ours.
+- Aoki et al. "**[Text Classification through Glyph-aware Disentangled Character Embedding and Semantic Sub-character Augmentation.](https://aclanthology.org/2020.aacl-srw.1/)**" Proceedings of AACL-IJCNLP SRW. 2020. Code: https://github.com/IyatomiLab/GDCE-SSA 
+
 ## Install and Run the code
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)
