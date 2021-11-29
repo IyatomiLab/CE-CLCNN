@@ -54,6 +54,8 @@ bash scripts/run_exps/run_liu_acl17.sh
 
 ### Inference with test data using the pre-trained model
 
+- Example of inference using the best model for the Japanese wikipedia title dataset.
+
 ```shell
 CUDA_VISIBLE_DEVICES=0 allennlp predict \
   output/CE-CLCNN/wiki_title/ja/with_RE_and_WT/model.tar.gz \
@@ -69,8 +71,8 @@ CUDA_VISIBLE_DEVICES=0 allennlp predict \
 If you want to use the following pre-trained model, you should download first and then execute the above command.
 
 ```shell
-mkdir -p output/CE-CLCNN/wiki_title/with_RE_and_WT
-wget https://github.com/IyatomiLab/CE-CLCNN/raw/master/pretrained_models/CE-CLCNN/wiki_title/ja/with_RE_and_WT/model.tar.gz -P output/CE-CLCNN/wiki_title/with_RE_and_WT
+mkdir -p output/CE-CLCNN/wiki_title/ja/with_RE_and_WT
+wget https://github.com/IyatomiLab/CE-CLCNN/raw/master/pretrained_models/CE-CLCNN/wiki_title/ja/with_RE_and_WT/model.tar.gz -P output/CE-CLCNN/wiki_title/ja/with_RE_and_WT
 ```
 
 ## Pre-trained models
