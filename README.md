@@ -17,6 +17,7 @@ Abstract:
 - IEEE Xplore: https://ieeexplore.ieee.org/document/8707407
 
 We recommend that you also check out the following studies related to ours.
+- Daif et al. "**[AraDIC: Arabic Document Classification Using Image-Based Character Embeddings and Class-Balanced Loss.](https://aclanthology.org/2020.acl-srw.29/)**" Proceedings of ACL SRW. 2020. Code: https://github.com/mahmouddaif/AraDIC
 - Aoki et al. "**[Text Classification through Glyph-aware Disentangled Character Embedding and Semantic Sub-character Augmentation.](https://aclanthology.org/2020.aacl-srw.1/)**" Proceedings of AACL-IJCNLP SRW. 2020. Code: https://github.com/IyatomiLab/GDCE-SSA 
 
 ## Install and Run the code
