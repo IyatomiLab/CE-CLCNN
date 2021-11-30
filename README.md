@@ -105,7 +105,7 @@ wget https://github.com/IyatomiLab/CE-CLCNN/raw/master/pretrained_models/CE-CLCN
     <tr>
         <td rowspan="3"><center>Japanese</td>
         <td>CE-CLCNN (<strong>proposed</strong>)</td>
-        <td><center>[Download]</td>
+        <td><center><a href="https://github.com/IyatomiLab/CE-CLCNN/raw/master/pretrained_models/CE-CLCNN/wiki_title/ja/base/model.tar.gz">[Download]</a></td>
     </tr>
     <tr>
         <td><strong>CE-CLCNN w/ RE and WT (proposed)</strong></td>
